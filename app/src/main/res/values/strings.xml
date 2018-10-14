@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KB+</string>
+    <string name="registration">Registration</string>
+    <string name="Email">Email</string>
+    <string name="user_name">User Name</string>
+    <string name="nameerror">Invalid Name</string>
+    <string name="email_error">Invalid Email</string>
+    <string name="designation_error">Invalid Designation</string>
+    <string name="password_error">Invalid password</string>
+    <string name="number_error">Invalid Number</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Employ Name</string>
+    <string name="nav_header_subtitle">Android Developer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">User</string>
+</resources>
